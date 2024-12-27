@@ -1,2 +1,2 @@
 # market_terminal
-Pattern Recognition challenge
+Pattern Recognition Program 
